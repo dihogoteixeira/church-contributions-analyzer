@@ -1,0 +1,17 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.navbar-brand {
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
+.card-title {
+    font-weight: bold;
+}
+
+#summary p {
+    font-size: 1.1rem;
+    margin-bottom: 0.5rem;
+}
